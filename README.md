@@ -25,4 +25,4 @@ Every living creature on this earth has equal importance within the ecosystem. B
 ## Solution:
 Pet’s health monitoring system is a belt which can be used to check all the vital parameters of their pets in real-time. Such belts can measure heart rate, temperature etc. By using ECG sensor, we can measure heart rate and with temperature sensor we can measure the pet’s body temperature. If any serious changes occur in any parameters that can be taken as signs of illness, it will send an alert to the pet owner. Physical activity is very important for pets. Modern applications can analyze walking distance, time of activity per day etc. We can use ADXL accelerometer to count the steps during walking. If a pet is not active enough during the day, an owner will be notified. To control all the sensors, we use NodeMCU8266 microcontroller. We can use ADXL accelerometer to count the steps during walking. If a pet is not active enough during the day, an owner will be notified. To control all the sensors, we use NodeMCU8266 microcontroller.
 
-![Image Description](path/to/image.jpg)
+![Image Description](BLOCK DIAGRAM.jpg)
