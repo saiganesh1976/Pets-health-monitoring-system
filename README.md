@@ -1,6 +1,6 @@
 # Pets-health-monitoring-system
 
-## Discription
+## Description
 PET’s HEALTH MONITORING SYSTEM is a wearable always-on health tracker that monitors a pet’s health and activity levels to generate a wellness score, providing the owner with a big picture of the animal’s overall health. While some wearable trackers are wireless tags attached to a normal pet collar, the Pet Pace Collar is an actual collar.
 
 ## Components Used
